@@ -18,5 +18,6 @@ I found it interesting that Git keeps track of changes made to files and allows 
 One Git command I found useful is `git status`. It shows which files have been modified, staged, or are currently untracked.
 
 ## What I Learned
-
 I am learning how Git and GitHub work together.
+
+## What I Learned
